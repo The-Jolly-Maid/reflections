@@ -5,3 +5,7 @@ Git creates the basic structure needed to track files, but you must add the file
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The working directory is the folder where your git repository resides.  The staging area is a temporary location where you can put files while you decide on if you wish to commit them or not.  It allows you to only commit some of the files in a working directory instead of all of them.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+use the git diff command
