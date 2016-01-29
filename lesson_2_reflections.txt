@@ -17,3 +17,11 @@ Branches allow you to keep experimental code seperate from production code.  The
 How do the diagrams help you visualize the branch structure?
 
 diagrams help by showing which commits/branches are accessible from other commits/branches.  They also show how long ago two branches of the code diverged from one another.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result of two merged branches is a combination of the code added/subtracted from each branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Git saves a lot of time copying and pasting between two files, however git can sometimes make mistakes during the merge.
