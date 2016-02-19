@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+When you want to have your data backed up automatically, or when you want to share your files easily with other people.
